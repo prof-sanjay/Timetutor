@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "./learn.css";
+import "./Learn.css";
 
 function Learn() {
   const [hour, setHour] = useState(3);
